@@ -1,0 +1,6 @@
+[submodule "Project-Remora-Frontend"]
+	path = Project-Remora-Frontend
+	url = git@github.com:pelith/Project-Remora-Frontend.git
+[submodule "Project-Remora-Backend"]
+	path = Project-Remora-Backend
+	url = git@github.com:pelith/Project-Remora-Backend.git
